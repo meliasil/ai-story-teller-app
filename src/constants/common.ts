@@ -1,0 +1,16 @@
+export const listaGeneri: string[] = [
+    "Fantasy",
+    "Sci-Fi",
+    "Mystery",
+    "Thriller",
+    "Romance",
+    "Horror",
+    "Adventure",
+    "Historical Fiction",
+    "Non-Fiction",
+    "Young Adult",
+    "Children's",
+    "Literary Fiction",
+    "Dystopian",
+    "Poetry",
+  ];
